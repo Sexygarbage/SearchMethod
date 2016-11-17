@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\Search\Search\bin\Debug\Search.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Search\Search\bin\Debug\Search.exe
+c:\users\admin\documents\visual studio 2012\Projects\Search\Search\bin\Debug\Search.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Search\Search\obj\Debug\Search.exe
+c:\users\admin\documents\visual studio 2012\Projects\Search\Search\obj\Debug\Search.pdb
